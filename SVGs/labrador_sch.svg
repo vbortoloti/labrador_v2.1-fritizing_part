@@ -1,0 +1,2112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   gorn="0"
+   viewBox="0 0 108 165.6"
+   height="2.3in"
+   x="0px"
+   xml:space="preserve"
+   y="0px"
+   width="1.5in"
+   version="1.2"
+   id="Layer_1"
+   sodipodi:docname="labrador_schsvg.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"><sodipodi:namedview
+   id="namedview5598"
+   pagecolor="#ffffff"
+   bordercolor="#000000"
+   borderopacity="0.25"
+   inkscape:showpageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#d1d1d1"
+   inkscape:document-units="in"
+   showgrid="false"
+   showguides="true"
+   inkscape:zoom="30.326088"
+   inkscape:cx="122.30394"
+   inkscape:cy="202.36702"
+   inkscape:window-width="2560"
+   inkscape:window-height="1017"
+   inkscape:window-x="-8"
+   inkscape:window-y="202"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="g591-5-0"><sodipodi:guide
+     position="16.470967,128.60215"
+     orientation="1,0"
+     id="guide6086"
+     inkscape:locked="false" /><sodipodi:guide
+     position="90.445798,129.57558"
+     orientation="1,0"
+     id="guide7766"
+     inkscape:locked="false" /></sodipodi:namedview>
+    <desc
+   id="desc2811">
+        <referenceFile>raspberry_pi3_v1.2_schematic.svg</referenceFile>
+    </desc>
+    <metadata
+   id="metadata667">
+        <rdf:RDF>
+            <cc:Work
+   rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+   rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <defs
+   id="defs665" />
+    <g
+   gorn="0.3"
+   id="g3">
+        <g
+   gorn="0.3.0"
+   id="schematic">
+            <rect
+   gorn="0.3.0.0"
+   stroke-linecap="round"
+   stroke="#000000"
+   fill="#ffffff"
+   height="164.07243"
+   x="14.760262"
+   y="1.2162615"
+   width="78.214478"
+   id="rect6"
+   stroke-width="0.928292" /><g
+   id="g6226"
+   transform="translate(0,-13.5)"><g
+     id="g6102"><text
+       gorn="0.3.0.26.53.0.0.0.0.0"
+       font-family="DroidSans"
+       fill="#8c8c8c"
+       font-size="3.5px"
+       id="text411-4-8"
+       x="16.256071"
+       y="37.16151">GPIO3</text><g
+       transform="translate(15.628605,94.635069)"
+       id="g4768-6">
+                    <g
+   id="g4766-6">
+                        <g
+   id="g4764-4">
+                            <g
+   id="g4762-0">
+                                <g
+   id="g4760-9">
+                                    <text
+   gorn="0.3.0.26.53.0.0.0.0.0"
+   font-family="DroidSans"
+   fill="#8c8c8c"
+   font-size="3.5px"
+   id="text411-4"
+   x="0.59354842"
+   y="-64.69677">3V3</text>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g><text
+       gorn="0.3.0.26.53.0.0.0.0.0"
+       font-family="DroidSans"
+       fill="#8c8c8c"
+       font-size="3.5px"
+       id="text411-4-8-9"
+       x="16.223568"
+       y="51.753757">GPIO7 </text><g
+       transform="translate(15.596102,109.22731)"
+       id="g4768-6-1">
+                    <g
+   id="g4766-6-0">
+                        <g
+   id="g4764-4-1">
+                            <g
+   id="g4762-0-8">
+                                <g
+   id="g4760-9-5">
+                                    <text
+   gorn="0.3.0.26.53.0.0.0.0.0"
+   font-family="DroidSans"
+   fill="#8c8c8c"
+   font-size="3.5px"
+   id="text411-4-3"
+   x="0.59354842"
+   y="-64.69677">GPIO5 </text>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g></g><g
+     id="g6102-9"
+     transform="translate(0.09076348,29.097045)"><text
+       gorn="0.3.0.26.53.0.0.0.0.0"
+       font-family="DroidSans"
+       fill="#8c8c8c"
+       font-size="3.5px"
+       id="text411-4-8-6"
+       x="16.256071"
+       y="37.16151">GPIO11 </text><g
+       transform="translate(15.628605,94.635069)"
+       id="g4768-6-8">
+                    <g
+   id="g4766-6-2">
+                        <g
+   id="g4764-4-8">
+                            <g
+   id="g4762-0-1">
+                                <g
+   id="g4760-9-1">
+                                    <text
+   gorn="0.3.0.26.53.0.0.0.0.0"
+   font-family="DroidSans"
+   fill="#8c8c8c"
+   font-size="3.5px"
+   id="text411-4-4"
+   x="0.59354842"
+   y="-64.69677">GND</text>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g><text
+       gorn="0.3.0.26.53.0.0.0.0.0"
+       font-family="DroidSans"
+       fill="#8c8c8c"
+       font-size="3.5px"
+       id="text411-4-8-9-5"
+       x="16.223568"
+       y="51.753757">GPIO15 </text><g
+       transform="translate(15.596102,109.22731)"
+       id="g4768-6-1-4">
+                    <g
+   id="g4766-6-0-0">
+                        <g
+   id="g4764-4-1-2">
+                            <g
+   id="g4762-0-8-2">
+                                <g
+   id="g4760-9-5-9">
+                                    <text
+   gorn="0.3.0.26.53.0.0.0.0.0"
+   font-family="DroidSans"
+   fill="#8c8c8c"
+   font-size="3.5px"
+   id="text411-4-3-9"
+   x="0.59354842"
+   y="-64.69677">GPIO13 </text>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g></g></g><g
+   id="g6226-3"
+   transform="translate(0.04538175,44.347788)"><g
+     id="g6102-2"><text
+       gorn="0.3.0.26.53.0.0.0.0.0"
+       font-family="DroidSans"
+       fill="#8c8c8c"
+       font-size="3.5px"
+       id="text411-4-8-8"
+       x="16.256071"
+       y="37.16151">GPIO19 </text><g
+       transform="translate(15.628605,94.635069)"
+       id="g4768-6-0">
+                    <g
+   id="g4766-6-27">
+                        <g
+   id="g4764-4-6">
+                            <g
+   id="g4762-0-9">
+                                <g
+   id="g4760-9-0">
+                                    <text
+   gorn="0.3.0.26.53.0.0.0.0.0"
+   font-family="DroidSans"
+   fill="#8c8c8c"
+   font-size="3.5px"
+   id="text411-4-6"
+   x="0.59354842"
+   y="-64.69677">3V3 </text>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g><text
+       gorn="0.3.0.26.53.0.0.0.0.0"
+       font-family="DroidSans"
+       fill="#8c8c8c"
+       font-size="3.5px"
+       id="text411-4-8-9-0"
+       x="16.223568"
+       y="51.753757">GPIO23 </text><g
+       transform="translate(15.596102,109.22731)"
+       id="g4768-6-1-9">
+                    <g
+   id="g4766-6-0-8">
+                        <g
+   id="g4764-4-1-1">
+                            <g
+   id="g4762-0-8-6">
+                                <g
+   id="g4760-9-5-8">
+                                    <text
+   gorn="0.3.0.26.53.0.0.0.0.0"
+   font-family="DroidSans"
+   fill="#8c8c8c"
+   font-size="3.5px"
+   id="text411-4-3-0"
+   x="0.59354842"
+   y="-64.69677">GPIO21 </text>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g></g><g
+     id="g6102-9-6"
+     transform="translate(0.09076348,29.097045)"><text
+       gorn="0.3.0.26.53.0.0.0.0.0"
+       font-family="DroidSans"
+       fill="#8c8c8c"
+       font-size="3.5px"
+       id="text411-4-8-6-4"
+       x="16.256071"
+       y="37.16151">GPIO27</text><g
+       transform="translate(15.628605,94.635069)"
+       id="g4768-6-8-5">
+                    <g
+   id="g4766-6-2-0">
+                        <g
+   id="g4764-4-8-4">
+                            <g
+   id="g4762-0-1-8">
+                                <g
+   id="g4760-9-1-0">
+                                    <text
+   gorn="0.3.0.26.53.0.0.0.0.0"
+   font-family="DroidSans"
+   fill="#8c8c8c"
+   font-size="3.5px"
+   id="text411-4-4-6"
+   x="0.59354842"
+   y="-64.69677"><tspan
+     sodipodi:role="line"
+     id="tspan6776"
+     x="0.59354842"
+     y="-64.69677">GND</tspan><tspan
+     sodipodi:role="line"
+     id="tspan6778"
+     x="0.59354842"
+     y="-60.32177"> </tspan></text>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g><g
+       transform="translate(15.596102,109.22731)"
+       id="g4768-6-1-4-7">
+                    <g
+   id="g4766-6-0-0-8">
+                        <g
+   id="g4764-4-1-2-2">
+                            <g
+   id="g4762-0-8-2-5">
+                                <g
+   id="g4760-9-5-9-2">
+                                    <text
+   gorn="0.3.0.26.53.0.0.0.0.0"
+   font-family="DroidSans"
+   fill="#8c8c8c"
+   font-size="3.5px"
+   id="text411-4-3-9-6"
+   x="0.59354842"
+   y="-64.69677">GPIO29</text>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g></g></g><g
+   id="g6226-3-1"
+   transform="translate(14.631102,32.638562)"><g
+     id="g6102-2-0"
+     transform="translate(-14.549673,61.976009)"><text
+       gorn="0.3.0.26.53.0.0.0.0.0"
+       font-family="DroidSans"
+       fill="#8c8c8c"
+       font-size="3.5px"
+       id="text411-4-8-8-51"
+       x="16.256071"
+       y="37.16151">GPIO33</text><g
+       transform="translate(15.628605,94.635069)"
+       id="g4768-6-0-8">
+                    <g
+   id="g4766-6-27-1">
+                        <g
+   id="g4764-4-6-2">
+                            <g
+   id="g4762-0-9-42">
+                                <g
+   id="g4760-9-0-5">
+                                    <text
+   gorn="0.3.0.26.53.0.0.0.0.0"
+   font-family="DroidSans"
+   fill="#8c8c8c"
+   font-size="3.5px"
+   id="text411-4-6-6"
+   x="0.59354842"
+   y="-64.69677">GPIO31 </text>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g><text
+       gorn="0.3.0.26.53.0.0.0.0.0"
+       font-family="DroidSans"
+       fill="#8c8c8c"
+       font-size="3.5px"
+       id="text411-4-8-9-0-2"
+       x="16.223568"
+       y="51.753757">GPIO37 </text><g
+       transform="translate(15.596102,109.22731)"
+       id="g4768-6-1-9-99">
+                    <g
+   id="g4766-6-0-8-7">
+                        <g
+   id="g4764-4-1-1-8">
+                            <g
+   id="g4762-0-8-6-1">
+                                <g
+   id="g4760-9-5-8-3">
+                                    <text
+   gorn="0.3.0.26.53.0.0.0.0.0"
+   font-family="DroidSans"
+   fill="#8c8c8c"
+   font-size="3.5px"
+   id="text411-4-3-0-6"
+   x="0.59354842"
+   y="-64.69677">GPIO35</text>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g></g><g
+     id="g6102-9-6-3"
+     transform="translate(-14.458909,91.073054)"><g
+       transform="translate(15.628605,94.635069)"
+       id="g4768-6-8-5-9">
+                    <g
+   id="g4766-6-2-0-2">
+                        <g
+   id="g4764-4-8-4-4">
+                            <g
+   id="g4762-0-1-8-4">
+                                <g
+   id="g4760-9-1-0-0">
+                                    <text
+   gorn="0.3.0.26.53.0.0.0.0.0"
+   font-family="DroidSans"
+   fill="#8c8c8c"
+   font-size="3.5px"
+   id="text411-4-4-6-48"
+   x="0.59354842"
+   y="-64.69677"><tspan
+     sodipodi:role="line"
+     id="tspan6776-1"
+     x="0.59354842"
+     y="-64.69677">GND</tspan><tspan
+     sodipodi:role="line"
+     id="tspan6778-4"
+     x="0.59354842"
+     y="-60.32177"> </tspan></text>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g></g></g><g
+   id="g6226-9"
+   transform="translate(64.367677,-13.005764)"><g
+     id="g6102-4"
+     transform="translate(-0.24731183,-0.2967742)"><g
+       transform="translate(15.628605,94.635069)"
+       id="g4768-6-9">
+                    <g
+   id="g4766-6-8">
+                        <g
+   id="g4764-4-9">
+                            <g
+   id="g4762-0-18">
+                                <g
+   id="g4760-9-08">
+                                    <text
+   gorn="0.3.0.26.53.0.0.0.0.0"
+   font-family="DroidSans"
+   fill="#8c8c8c"
+   font-size="3.5px"
+   id="text411-4-34"
+   x="0.38369736"
+   y="-64.69677">       5V</text>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g><text
+       gorn="0.3.0.26.53.0.0.0.0.0"
+       font-family="DroidSans"
+       fill="#8c8c8c"
+       font-size="3.5px"
+       id="text411-4-8-9-4"
+       x="16.223568"
+       y="51.753757">GPIO8 </text><g
+       transform="translate(15.596102,109.22731)"
+       id="g4768-6-1-6">
+                    <g
+   id="g4766-6-0-4">
+                        <g
+   id="g4764-4-1-4">
+                            <g
+   id="g4762-0-8-9">
+                                <g
+   id="g4760-9-5-4">
+                                    <text
+   gorn="0.3.0.26.53.0.0.0.0.0"
+   font-family="DroidSans"
+   fill="#8c8c8c"
+   font-size="3.5px"
+   id="text411-4-3-3"
+   x="3.3216121"
+   y="-64.801697">GND </text>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g><text
+       gorn="0.3.0.26.53.0.0.0.0.0"
+       font-family="DroidSans"
+       fill="#8c8c8c"
+       font-size="3.5px"
+       id="text411-4-34-5"
+       x="16.00934"
+       y="37.233604">       5V</text></g><g
+     id="g6102-9-0"
+     transform="translate(-2.1112257,28.800271)"><text
+       gorn="0.3.0.26.53.0.0.0.0.0"
+       font-family="DroidSans"
+       fill="#8c8c8c"
+       font-size="3.5px"
+       id="text411-4-8-6-6"
+       x="16.256071"
+       y="37.16151">GPIO12 </text><g
+       transform="translate(15.628605,94.635069)"
+       id="g4768-6-8-3">
+                    <g
+   id="g4766-6-2-08">
+                        <g
+   id="g4764-4-8-7">
+                            <g
+   id="g4762-0-1-4">
+                                <g
+   id="g4760-9-1-05">
+                                    <text
+   gorn="0.3.0.26.53.0.0.0.0.0"
+   font-family="DroidSans"
+   fill="#8c8c8c"
+   font-size="3.5px"
+   id="text411-4-4-2"
+   x="0.59354842"
+   y="-64.69677">GPIO10</text>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g><text
+       gorn="0.3.0.26.53.0.0.0.0.0"
+       font-family="DroidSans"
+       fill="#8c8c8c"
+       font-size="3.5px"
+       id="text411-4-8-9-5-9"
+       x="16.223568"
+       y="51.753757">GPIO16 </text><g
+       transform="translate(15.596102,109.22731)"
+       id="g4768-6-1-4-0">
+                    <g
+   id="g4766-6-0-0-83">
+                        <g
+   id="g4764-4-1-2-4">
+                            <g
+   id="g4762-0-8-2-0">
+                                <g
+   id="g4760-9-5-9-4">
+                                    <text
+   gorn="0.3.0.26.53.0.0.0.0.0"
+   font-family="DroidSans"
+   fill="#8c8c8c"
+   font-size="3.5px"
+   id="text411-4-3-9-4"
+   x="5.4258127"
+   y="-64.69677">GND </text>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g></g></g><g
+   id="g6226-3-1-1"
+   transform="translate(76.79679,32.836024)"><g
+     id="g6102-2-0-3"
+     transform="translate(-14.549673,61.976009)"><text
+       gorn="0.3.0.26.53.0.0.0.0.0"
+       font-family="DroidSans"
+       fill="#8c8c8c"
+       font-size="3.5px"
+       id="text411-4-8-8-51-1"
+       x="21.088335"
+       y="37.16151">GND</text><g
+       transform="translate(15.628605,94.635069)"
+       id="g4768-6-0-8-9">
+                    <g
+   id="g4766-6-27-1-4">
+                        <g
+   id="g4764-4-6-2-4">
+                            <g
+   id="g4762-0-9-42-4">
+                                <g
+   id="g4760-9-0-5-6">
+                                    <text
+   gorn="0.3.0.26.53.0.0.0.0.0"
+   font-family="DroidSans"
+   fill="#8c8c8c"
+   font-size="3.5px"
+   id="text411-4-6-6-1"
+   x="0.59354842"
+   y="-64.69677">GPIO32 </text>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g><text
+       gorn="0.3.0.26.53.0.0.0.0.0"
+       font-family="DroidSans"
+       fill="#8c8c8c"
+       font-size="3.5px"
+       id="text411-4-8-9-0-2-4"
+       x="16.223568"
+       y="51.753757">GPIO38 </text><g
+       transform="translate(15.596102,109.22731)"
+       id="g4768-6-1-9-99-3">
+                    <g
+   id="g4766-6-0-8-7-2">
+                        <g
+   id="g4764-4-1-1-8-5">
+                            <g
+   id="g4762-0-8-6-1-5">
+                                <g
+   id="g4760-9-5-8-3-7">
+                                    <text
+   gorn="0.3.0.26.53.0.0.0.0.0"
+   font-family="DroidSans"
+   fill="#8c8c8c"
+   font-size="3.5px"
+   id="text411-4-3-0-6-0"
+   x="0.59354842"
+   y="-64.69677">GPIO36</text>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g></g><g
+     id="g6102-9-6-3-4"
+     transform="translate(-14.458909,91.073054)"><g
+       transform="translate(15.628605,94.635069)"
+       id="g4768-6-8-5-9-2">
+                    <g
+   id="g4766-6-2-0-2-1">
+                        <g
+   id="g4764-4-8-4-4-3">
+                            <g
+   id="g4762-0-1-8-4-7">
+                                <g
+   id="g4760-9-1-0-0-5">
+                                    <text
+   gorn="0.3.0.26.53.0.0.0.0.0"
+   font-family="DroidSans"
+   fill="#8c8c8c"
+   font-size="3.5px"
+   id="text411-4-4-6-48-6"
+   x="0.59354842"
+   y="-64.69677"><tspan
+     sodipodi:role="line"
+     id="tspan6776-1-6"
+     x="0.59354842"
+     y="-64.69677">GPIO40</tspan><tspan
+     sodipodi:role="line"
+     id="tspan6778-4-6"
+     x="0.59354842"
+     y="-60.32177"> </tspan></text>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g></g></g><g
+   id="g6102-2-6"
+   transform="translate(62.21107,44.545249)"><text
+     gorn="0.3.0.26.53.0.0.0.0.0"
+     font-family="DroidSans"
+     fill="#8c8c8c"
+     font-size="3.5px"
+     id="text411-4-8-8-8"
+     x="21.088335"
+     y="37.16151">GND </text><g
+     transform="translate(15.628605,94.635069)"
+     id="g4768-6-0-6">
+                    <g
+   id="g4766-6-27-6">
+                        <g
+   id="g4764-4-6-9">
+                            <g
+   id="g4762-0-9-3">
+                                <g
+   id="g4760-9-0-54">
+                                    <text
+   gorn="0.3.0.26.53.0.0.0.0.0"
+   font-family="DroidSans"
+   fill="#8c8c8c"
+   font-size="3.5px"
+   id="text411-4-6-7"
+   x="0.59354842"
+   y="-64.69677">GPIO18 </text>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g><text
+     gorn="0.3.0.26.53.0.0.0.0.0"
+     font-family="DroidSans"
+     fill="#8c8c8c"
+     font-size="3.5px"
+     id="text411-4-8-9-0-0"
+     x="16.223568"
+     y="51.753757">GPIO24 </text><g
+     transform="translate(15.596102,109.22731)"
+     id="g4768-6-1-9-2">
+                    <g
+   id="g4766-6-0-8-9">
+                        <g
+   id="g4764-4-1-1-9">
+                            <g
+   id="g4762-0-8-6-0">
+                                <g
+   id="g4760-9-5-8-6">
+                                    <text
+   gorn="0.3.0.26.53.0.0.0.0.0"
+   font-family="DroidSans"
+   fill="#8c8c8c"
+   font-size="3.5px"
+   id="text411-4-3-0-7"
+   x="0.59354842"
+   y="-64.69677">GPIO22 </text>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g></g><g
+   id="g6102-9-6-9"
+   transform="translate(62.301833,73.642294)"><text
+     gorn="0.3.0.26.53.0.0.0.0.0"
+     font-family="DroidSans"
+     fill="#8c8c8c"
+     font-size="3.5px"
+     id="text411-4-8-6-4-4"
+     x="16.256071"
+     y="37.16151">GPIO28</text><g
+     transform="translate(15.628605,94.635069)"
+     id="g4768-6-8-5-5">
+                    <g
+   id="g4766-6-2-0-5">
+                        <g
+   id="g4764-4-8-4-3">
+                            <g
+   id="g4762-0-1-8-42">
+                                <g
+   id="g4760-9-1-0-7">
+                                    <text
+   gorn="0.3.0.26.53.0.0.0.0.0"
+   font-family="DroidSans"
+   fill="#8c8c8c"
+   font-size="3.5px"
+   id="text411-4-4-6-9"
+   x="0.59354842"
+   y="-64.69677"><tspan
+     sodipodi:role="line"
+     id="tspan6776-6"
+     x="0.59354842"
+     y="-64.69677">GPIO26</tspan><tspan
+     sodipodi:role="line"
+     id="tspan6778-9"
+     x="0.59354842"
+     y="-60.32177"> </tspan></text>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g><g
+     transform="translate(15.596102,109.22731)"
+     id="g4768-6-1-4-7-2">
+                    <g
+   id="g4766-6-0-0-8-5">
+                        <g
+   id="g4764-4-1-2-2-9">
+                            <g
+   id="g4762-0-8-2-5-5">
+                                <g
+   id="g4760-9-5-9-2-4">
+                                    <text
+   gorn="0.3.0.26.53.0.0.0.0.0"
+   font-family="DroidSans"
+   fill="#8c8c8c"
+   font-size="3.5px"
+   id="text411-4-3-9-6-7"
+   x="5.4258127"
+   y="-64.69677">GND</text>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g></g>
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            <rect
+   gorn="0.3.0.14"
+   fill="none"
+   height="0.97899997"
+   x="50.400002"
+   y="151.084"
+   width="0.76200002"
+   id="connector4terminal" />
+            <rect
+   gorn="0.3.0.15"
+   fill="none"
+   height="0.97899997"
+   x="50.400002"
+   y="151.084"
+   width="0.76200002"
+   id="connector12terminal" />
+            
+            
+            
+            <rect
+   gorn="0.3.0.19"
+   fill="none"
+   height="0.97899997"
+   x="50.400002"
+   y="151.084"
+   width="0.76200002"
+   id="connector30terminal" />
+            <rect
+   gorn="0.3.0.20"
+   fill="none"
+   height="0.97899997"
+   x="50.400002"
+   y="151.084"
+   width="0.76200002"
+   id="connector33terminal" />
+            <rect
+   gorn="0.3.0.21"
+   fill="none"
+   height="0.97899997"
+   x="50.400002"
+   y="151.084"
+   width="0.76200002"
+   id="connector37terminal" />
+            <rect
+   gorn="0.3.0.22"
+   fill="none"
+   height="0.97899997"
+   x="50.400002"
+   y="151.084"
+   width="0.76200002"
+   id="connector25terminal" />
+            <rect
+   gorn="0.3.0.23"
+   fill="none"
+   height="0.97899997"
+   x="50.400002"
+   y="151.084"
+   width="0.76200002"
+   id="connector23terminal" />
+            <rect
+   gorn="0.3.0.24"
+   fill="none"
+   height="0.97899997"
+   x="50.400002"
+   y="151.084"
+   width="0.76200002"
+   id="connector19terminal" />
+            <g
+   gorn="0.3.0.25"
+   id="connector87terminal" />
+            <g
+   gorn="0.3.0.26"
+   id="g33"
+   transform="translate(3.3634409,46.940861)">
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                <g
+   transform="translate(33.894,79.9856)"
+   id="g4878">
+                    <g
+   id="g4876">
+                        <g
+   id="g4874">
+                            <g
+   id="g4872">
+                                <g
+   id="g4870">
+                                    <text
+   gorn="0.3.0.26.63.0.0.0.0.0"
+   font-family="DroidSans"
+   fill="#8c8c8c"
+   font-size="3.5px"
+   id="text431" />
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                <g
+   gorn="0.3.0.26.121"
+   id="g547"
+   transform="translate(-0.79139785,-9.3956989)">
+                    <text
+   gorn="0.3.0.26.121.0"
+   font-size="4.25"
+   style="font-size:4.25px;font-family:DroidSans"
+   x="41.367195"
+   y="43.187225"
+   id="label_3_">LABRADOR</text>
+                    <text
+   gorn="0.3.0.26.121.1"
+   font-size="4.25"
+   style="font-size:4.25px;font-family:DroidSans"
+   x="35.001686"
+   y="49.545002"
+   id="label_1_">CANINOS LOUCOS</text>
+                </g>
+            </g>
+            <g
+   gorn="0.3.0.27"
+   id="g551"
+   transform="translate(0,-13.5)">
+                <line
+   gorn="0.3.0.27.0"
+   y1="28.895"
+   stroke-linecap="round"
+   y2="28.895"
+   x1="0.329"
+   x2="14.729"
+   stroke="#787878"
+   fill="none"
+   id="connector1pin"
+   stroke-width="1.0665" />
+                <rect
+   gorn="0.3.0.27.1"
+   stroke-linecap="round"
+   stroke="#787878"
+   fill="none"
+   height="0.208"
+   x="-0.294"
+   y="28.799999"
+   width="0.546"
+   id="connector1terminal"
+   stroke-width="0.75" />
+            </g>
+            <g
+   gorn="0.3.0.28"
+   id="g555"
+   transform="translate(0,-13.5)">
+                <line
+   gorn="0.3.0.28.0"
+   y1="36.095001"
+   stroke-linecap="round"
+   y2="36.095001"
+   x1="0.329"
+   x2="14.729"
+   stroke="#787878"
+   fill="none"
+   id="connector2pin"
+   stroke-width="1.0665" />
+                <rect
+   gorn="0.3.0.28.1"
+   stroke-linecap="round"
+   stroke="#787878"
+   fill="none"
+   height="0.208"
+   x="-0.294"
+   y="35.999001"
+   width="0.546"
+   id="connector2terminal"
+   stroke-width="0.75" />
+            </g>
+            <g
+   gorn="0.3.0.29"
+   id="g559"
+   transform="translate(0,-13.5)">
+                <line
+   gorn="0.3.0.29.0"
+   y1="43.296001"
+   stroke-linecap="round"
+   y2="43.296001"
+   x1="0.329"
+   x2="14.729"
+   stroke="#787878"
+   fill="none"
+   id="connector3pin"
+   stroke-width="1.0665" />
+                <rect
+   gorn="0.3.0.29.1"
+   stroke-linecap="round"
+   stroke="#787878"
+   fill="none"
+   height="0.208"
+   x="-0.294"
+   y="43.199001"
+   width="0.546"
+   id="connector3terminal"
+   stroke-width="0.75" />
+            </g>
+            <g
+   gorn="0.3.0.30"
+   id="g563"
+   transform="translate(0,-13.5)">
+                <line
+   gorn="0.3.0.30.0"
+   y1="50.495998"
+   stroke-linecap="round"
+   y2="50.495998"
+   x1="0.329"
+   x2="14.729"
+   stroke="#787878"
+   fill="none"
+   id="connector5pin"
+   stroke-width="1.0665" />
+                <rect
+   gorn="0.3.0.30.1"
+   stroke-linecap="round"
+   stroke="#787878"
+   fill="none"
+   height="0.208"
+   x="-0.294"
+   y="50.400002"
+   width="0.546"
+   id="connector5terminal"
+   stroke-width="0.75" />
+            </g>
+            <g
+   gorn="0.3.0.31"
+   id="g567"
+   transform="translate(0,-13.5)">
+                <line
+   gorn="0.3.0.31.0"
+   y1="57.695999"
+   stroke-linecap="round"
+   y2="57.695999"
+   x1="0.329"
+   x2="14.729"
+   stroke="#787878"
+   fill="none"
+   id="connector6pin"
+   stroke-width="1.0665" />
+                <rect
+   gorn="0.3.0.31.1"
+   stroke-linecap="round"
+   stroke="#787878"
+   fill="none"
+   height="0.208"
+   x="-0.294"
+   y="57.599998"
+   width="0.546"
+   id="connector6terminal"
+   stroke-width="0.75" />
+            </g>
+            <g
+   gorn="0.3.0.32"
+   id="g571"
+   transform="translate(0,-13.5)">
+                <line
+   gorn="0.3.0.32.0"
+   y1="64.896004"
+   stroke-linecap="round"
+   y2="64.896004"
+   x1="0.329"
+   x2="14.729"
+   stroke="#787878"
+   fill="none"
+   id="connector7pin"
+   stroke-width="1.0665" />
+                <rect
+   gorn="0.3.0.32.1"
+   stroke-linecap="round"
+   stroke="#787878"
+   fill="none"
+   height="0.208"
+   x="-0.294"
+   y="64.800003"
+   width="0.546"
+   id="connector7terminal"
+   stroke-width="0.75" />
+            </g>
+            <g
+   gorn="0.3.0.33"
+   id="g575"
+   transform="translate(0,-13.5)">
+                <line
+   gorn="0.3.0.33.0"
+   y1="72.095001"
+   stroke-linecap="round"
+   y2="72.095001"
+   x1="0.329"
+   x2="14.729"
+   stroke="#787878"
+   fill="none"
+   id="connector9pin"
+   stroke-width="1.0665" />
+                <rect
+   gorn="0.3.0.33.1"
+   stroke-linecap="round"
+   stroke="#787878"
+   fill="none"
+   height="0.208"
+   x="-0.294"
+   y="72"
+   width="0.546"
+   id="connector9terminal"
+   stroke-width="0.75" />
+            </g>
+            <g
+   gorn="0.3.0.34"
+   id="g579"
+   transform="translate(0,-13.5)">
+                <line
+   gorn="0.3.0.34.0"
+   y1="79.295998"
+   stroke-linecap="round"
+   y2="79.295998"
+   x1="0.329"
+   x2="14.729"
+   stroke="#787878"
+   fill="none"
+   id="connector10pin"
+   stroke-width="1.0665" />
+                <rect
+   gorn="0.3.0.34.1"
+   stroke-linecap="round"
+   stroke="#787878"
+   fill="none"
+   height="0.208"
+   x="-0.294"
+   y="79.198997"
+   width="0.546"
+   id="connector10terminal"
+   stroke-width="0.75" />
+            </g>
+            <g
+   gorn="0.3.0.35"
+   id="g583"
+   transform="translate(0,-13.5)">
+                <line
+   gorn="0.3.0.35.0"
+   y1="86.495003"
+   stroke-linecap="round"
+   y2="86.495003"
+   x1="0.329"
+   x2="14.729"
+   stroke="#787878"
+   fill="none"
+   id="connector11pin"
+   stroke-width="1.0665" />
+                <rect
+   gorn="0.3.0.35.1"
+   stroke-linecap="round"
+   stroke="#787878"
+   fill="none"
+   height="0.208"
+   x="-0.294"
+   y="86.400002"
+   width="0.546"
+   id="connector11terminal"
+   stroke-width="0.75" />
+            </g>
+            <g
+   gorn="0.3.0.36"
+   id="g587"
+   transform="translate(0,-13.5)">
+                <line
+   gorn="0.3.0.36.0"
+   y1="93.695999"
+   stroke-linecap="round"
+   y2="93.695999"
+   x1="0.329"
+   x2="14.729"
+   stroke="#787878"
+   fill="none"
+   id="connector13pin"
+   stroke-width="1.0665" />
+                <rect
+   gorn="0.3.0.36.1"
+   stroke-linecap="round"
+   stroke="#787878"
+   fill="none"
+   height="0.208"
+   x="-0.294"
+   y="93.599998"
+   width="0.546"
+   id="connector13terminal"
+   stroke-width="0.75" />
+            </g>
+            <g
+   gorn="0.3.0.37"
+   id="g591"
+   transform="translate(0,-13.5)">
+                <line
+   gorn="0.3.0.37.0"
+   y1="100.896"
+   stroke-linecap="round"
+   y2="100.896"
+   x1="0.329"
+   x2="14.729"
+   stroke="#787878"
+   fill="none"
+   id="connector14pin"
+   stroke-width="1.0665" />
+                <rect
+   gorn="0.3.0.37.1"
+   stroke-linecap="round"
+   stroke="#787878"
+   fill="none"
+   height="0.208"
+   x="-0.294"
+   y="100.8"
+   width="0.546"
+   id="connector14terminal"
+   stroke-width="0.75" />
+            </g>
+            <g
+   gorn="0.3.0.38"
+   id="g595"
+   transform="translate(0,-13.5)">
+                <line
+   gorn="0.3.0.38.0"
+   y1="108.096"
+   stroke-linecap="round"
+   y2="108.096"
+   x1="0.329"
+   x2="14.729"
+   stroke="#787878"
+   fill="none"
+   id="connector15pin"
+   stroke-width="1.0665" />
+                <rect
+   gorn="0.3.0.38.1"
+   stroke-linecap="round"
+   stroke="#787878"
+   fill="none"
+   height="0.208"
+   x="-0.294"
+   y="107.999"
+   width="0.546"
+   id="connector15terminal"
+   stroke-width="0.75" />
+            </g>
+            <g
+   gorn="0.3.0.39"
+   id="g599"
+   transform="translate(0,-13.5)">
+                <line
+   gorn="0.3.0.39.0"
+   y1="115.294"
+   stroke-linecap="round"
+   y2="115.294"
+   x1="0.329"
+   x2="14.729"
+   stroke="#787878"
+   fill="none"
+   id="connector16pin"
+   stroke-width="1.0665" />
+                <rect
+   gorn="0.3.0.39.1"
+   stroke-linecap="round"
+   stroke="#787878"
+   fill="none"
+   height="0.20900001"
+   x="-0.294"
+   y="115.198"
+   width="0.546"
+   id="connector16terminal"
+   stroke-width="0.75" />
+            </g>
+            <g
+   gorn="0.3.0.40"
+   id="g603"
+   transform="translate(0,-13.5)">
+                <line
+   gorn="0.3.0.40.0"
+   y1="122.495"
+   stroke-linecap="round"
+   y2="122.495"
+   x1="0.329"
+   x2="14.729"
+   stroke="#787878"
+   fill="none"
+   id="connector17pin"
+   stroke-width="1.0665" />
+                <rect
+   gorn="0.3.0.40.1"
+   stroke-linecap="round"
+   stroke="#787878"
+   fill="none"
+   height="0.207"
+   x="-0.294"
+   y="122.4"
+   width="0.546"
+   id="connector17terminal"
+   stroke-width="0.75" />
+            </g>
+            <g
+   gorn="0.3.0.41"
+   id="g607"
+   transform="translate(0,-13.5)">
+                <line
+   gorn="0.3.0.41.0"
+   y1="129.69501"
+   stroke-linecap="round"
+   y2="129.69501"
+   x1="0.329"
+   x2="14.729"
+   stroke="#787878"
+   fill="none"
+   id="connector18pin"
+   stroke-width="1.0665" />
+                <rect
+   gorn="0.3.0.41.1"
+   stroke-linecap="round"
+   stroke="#787878"
+   fill="none"
+   height="0.20900001"
+   x="-0.294"
+   y="129.599"
+   width="0.546"
+   id="connector18terminal"
+   stroke-width="0.75" />
+            </g><g
+   gorn="0.3.0.37"
+   id="g591-5"
+   transform="translate(-0.44149083,51.442947)">
+                <line
+   gorn="0.3.0.37.0"
+   y1="100.896"
+   stroke-linecap="round"
+   y2="100.896"
+   x1="0.329"
+   x2="14.729"
+   stroke="#787878"
+   fill="none"
+   id="connector14pin-4"
+   stroke-width="1.0665" />
+                <rect
+   gorn="0.3.0.37.1"
+   stroke-linecap="round"
+   stroke="#787878"
+   fill="none"
+   height="0.208"
+   x="-0.294"
+   y="100.8"
+   width="0.546"
+   id="connector14terminal-1"
+   stroke-width="0.75" />
+            </g><g
+   gorn="0.3.0.38"
+   id="g595-2"
+   transform="translate(-0.16168944,15.068766)">
+                <line
+   gorn="0.3.0.38.0"
+   y1="108.096"
+   stroke-linecap="round"
+   y2="108.096"
+   x1="0.329"
+   x2="14.729"
+   stroke="#787878"
+   fill="none"
+   id="connector15pin-4"
+   stroke-width="1.0665" />
+                <rect
+   gorn="0.3.0.38.1"
+   stroke-linecap="round"
+   stroke="#787878"
+   fill="none"
+   height="0.208"
+   x="-0.294"
+   y="107.999"
+   width="0.546"
+   id="connector15terminal-0"
+   stroke-width="0.75" />
+            </g><g
+   gorn="0.3.0.39"
+   id="g599-5"
+   transform="translate(-0.16168944,15.068766)">
+                <line
+   gorn="0.3.0.39.0"
+   y1="115.294"
+   stroke-linecap="round"
+   y2="115.294"
+   x1="0.329"
+   x2="14.729"
+   stroke="#787878"
+   fill="none"
+   id="connector16pin-1"
+   stroke-width="1.0665" />
+                <rect
+   gorn="0.3.0.39.1"
+   stroke-linecap="round"
+   stroke="#787878"
+   fill="none"
+   height="0.20900001"
+   x="-0.294"
+   y="115.198"
+   width="0.546"
+   id="connector16terminal-7"
+   stroke-width="0.75" />
+            </g><g
+   gorn="0.3.0.40"
+   id="g603-6"
+   transform="translate(-0.16168944,15.068766)">
+                <line
+   gorn="0.3.0.40.0"
+   y1="122.495"
+   stroke-linecap="round"
+   y2="122.495"
+   x1="0.329"
+   x2="14.729"
+   stroke="#787878"
+   fill="none"
+   id="connector17pin-8"
+   stroke-width="1.0665" />
+                <rect
+   gorn="0.3.0.40.1"
+   stroke-linecap="round"
+   stroke="#787878"
+   fill="none"
+   height="0.207"
+   x="-0.294"
+   y="122.4"
+   width="0.546"
+   id="connector17terminal-4"
+   stroke-width="0.75" />
+            </g><g
+   gorn="0.3.0.41"
+   id="g607-2"
+   transform="translate(-0.16168944,15.068766)">
+                <line
+   gorn="0.3.0.41.0"
+   y1="129.69501"
+   stroke-linecap="round"
+   y2="129.69501"
+   x1="0.329"
+   x2="14.729"
+   stroke="#787878"
+   fill="none"
+   id="connector18pin-1"
+   stroke-width="1.0665" />
+                <rect
+   gorn="0.3.0.41.1"
+   stroke-linecap="round"
+   stroke="#787878"
+   fill="none"
+   height="0.20900001"
+   x="-0.294"
+   y="129.599"
+   width="0.546"
+   id="connector18terminal-1"
+   stroke-width="0.75" />
+            </g>
+            <g
+   gorn="0.3.0.42"
+   id="g611"
+   transform="translate(0,-13.5)">
+                <line
+   gorn="0.3.0.42.0"
+   y1="28.888"
+   stroke-linecap="round"
+   y2="28.888"
+   x1="93.017998"
+   x2="107.418"
+   stroke="#787878"
+   fill="none"
+   id="connector20pin"
+   stroke-width="1.0665" />
+                <rect
+   gorn="0.3.0.42.1"
+   stroke-linecap="round"
+   stroke="#787878"
+   fill="none"
+   height="0.208"
+   x="107.59"
+   y="28.792"
+   width="0.54699999"
+   id="connector20terminal"
+   stroke-width="0.75" />
+            </g>
+            <g
+   gorn="0.3.0.43"
+   id="g615"
+   transform="translate(0,-13.5)">
+                <line
+   gorn="0.3.0.43.0"
+   y1="36.088001"
+   stroke-linecap="round"
+   y2="36.088001"
+   x1="93.017998"
+   x2="107.418"
+   stroke="#787878"
+   fill="none"
+   id="connector21pin"
+   stroke-width="1.0665" />
+                <rect
+   gorn="0.3.0.43.1"
+   stroke-linecap="round"
+   stroke="#787878"
+   fill="none"
+   height="0.208"
+   x="107.59"
+   y="35.992001"
+   width="0.54699999"
+   id="connector21terminal"
+   stroke-width="0.75" />
+            </g>
+            <g
+   gorn="0.3.0.44"
+   id="g619"
+   transform="translate(0,-13.5)">
+                <line
+   gorn="0.3.0.44.0"
+   y1="43.287998"
+   stroke-linecap="round"
+   y2="43.287998"
+   x1="93.017998"
+   x2="107.418"
+   stroke="#787878"
+   fill="none"
+   id="connector22pin"
+   stroke-width="1.0665" />
+                <rect
+   gorn="0.3.0.44.1"
+   stroke-linecap="round"
+   stroke="#787878"
+   fill="none"
+   height="0.207"
+   x="107.59"
+   y="43.193001"
+   width="0.54699999"
+   id="connector22terminal"
+   stroke-width="0.75" />
+            </g>
+            <g
+   gorn="0.3.0.45"
+   id="g623"
+   transform="translate(0,-13.5)">
+                <line
+   gorn="0.3.0.45.0"
+   y1="50.487999"
+   stroke-linecap="round"
+   y2="50.487999"
+   x1="93.017998"
+   x2="107.418"
+   stroke="#787878"
+   fill="none"
+   id="connector24pin"
+   stroke-width="1.0665" />
+                <rect
+   gorn="0.3.0.45.1"
+   stroke-linecap="round"
+   stroke="#787878"
+   fill="none"
+   height="0.207"
+   x="107.59"
+   y="50.391998"
+   width="0.54699999"
+   id="connector24terminal"
+   stroke-width="0.75" />
+            </g>
+            <g
+   gorn="0.3.0.46"
+   id="g627"
+   transform="translate(0,-13.5)">
+                <line
+   gorn="0.3.0.46.0"
+   y1="57.688999"
+   stroke-linecap="round"
+   y2="57.688999"
+   x1="93.017998"
+   x2="107.418"
+   stroke="#787878"
+   fill="none"
+   id="connector26pin"
+   stroke-width="1.0665" />
+                <rect
+   gorn="0.3.0.46.1"
+   stroke-linecap="round"
+   stroke="#787878"
+   fill="none"
+   height="0.207"
+   x="107.59"
+   y="57.592999"
+   width="0.54699999"
+   id="connector26terminal"
+   stroke-width="0.75" />
+            </g>
+            <g
+   gorn="0.3.0.47"
+   id="g631"
+   transform="translate(0,-13.5)">
+                <line
+   gorn="0.3.0.47.0"
+   y1="64.887001"
+   stroke-linecap="round"
+   y2="64.887001"
+   x1="93.017998"
+   x2="107.418"
+   stroke="#787878"
+   fill="none"
+   id="connector27pin"
+   stroke-width="1.0665" />
+                <rect
+   gorn="0.3.0.47.1"
+   stroke-linecap="round"
+   stroke="#787878"
+   fill="none"
+   height="0.207"
+   x="107.59"
+   y="64.792"
+   width="0.54699999"
+   id="connector27terminal"
+   stroke-width="0.75" />
+            </g>
+            <g
+   gorn="0.3.0.48"
+   id="g635"
+   transform="translate(0,-13.5)">
+                <line
+   gorn="0.3.0.48.0"
+   y1="72.087997"
+   stroke-linecap="round"
+   y2="72.087997"
+   x1="93.017998"
+   x2="107.418"
+   stroke="#787878"
+   fill="none"
+   id="connector28pin"
+   stroke-width="1.0665" />
+                <rect
+   gorn="0.3.0.48.1"
+   stroke-linecap="round"
+   stroke="#787878"
+   fill="none"
+   height="0.20900001"
+   x="107.59"
+   y="71.989998"
+   width="0.54699999"
+   id="connector28terminal"
+   stroke-width="0.75" />
+            </g>
+            <g
+   gorn="0.3.0.49"
+   id="g639"
+   transform="translate(0,-13.5)">
+                <line
+   gorn="0.3.0.49.0"
+   y1="79.287003"
+   stroke-linecap="round"
+   y2="79.287003"
+   x1="93.017998"
+   x2="107.418"
+   stroke="#787878"
+   fill="none"
+   id="connector29pin"
+   stroke-width="1.0665" />
+                <rect
+   gorn="0.3.0.49.1"
+   stroke-linecap="round"
+   stroke="#787878"
+   fill="none"
+   height="0.207"
+   x="107.59"
+   y="79.192001"
+   width="0.54699999"
+   id="connector29terminal"
+   stroke-width="0.75" />
+            </g>
+            <g
+   gorn="0.3.0.50"
+   id="g643"
+   transform="translate(0,-13.5)">
+                <line
+   gorn="0.3.0.50.0"
+   y1="86.489998"
+   stroke-linecap="round"
+   y2="86.489998"
+   x1="93.017998"
+   x2="107.418"
+   stroke="#787878"
+   fill="none"
+   id="connector31pin"
+   stroke-width="1.0665" />
+                <rect
+   gorn="0.3.0.50.1"
+   stroke-linecap="round"
+   stroke="#787878"
+   fill="none"
+   height="0.207"
+   x="107.59"
+   y="86.392998"
+   width="0.54699999"
+   id="connector31terminal"
+   stroke-width="0.75" />
+            </g>
+            <g
+   gorn="0.3.0.51"
+   id="g647"
+   transform="translate(0,-13.5)">
+                <line
+   gorn="0.3.0.51.0"
+   y1="93.688004"
+   stroke-linecap="round"
+   y2="93.688004"
+   x1="93.017998"
+   x2="107.418"
+   stroke="#787878"
+   fill="none"
+   id="connector32pin"
+   stroke-width="1.0665" />
+                <rect
+   gorn="0.3.0.51.1"
+   stroke-linecap="round"
+   stroke="#787878"
+   fill="none"
+   height="0.207"
+   x="107.59"
+   y="93.592003"
+   width="0.54699999"
+   id="connector32terminal"
+   stroke-width="0.75" />
+            </g>
+            <g
+   gorn="0.3.0.52"
+   id="g651"
+   transform="translate(0,-13.5)">
+                <line
+   gorn="0.3.0.52.0"
+   y1="100.888"
+   stroke-linecap="round"
+   y2="100.888"
+   x1="93.017998"
+   x2="107.418"
+   stroke="#787878"
+   fill="none"
+   id="connector34pin"
+   stroke-width="1.0665" />
+                <rect
+   gorn="0.3.0.52.1"
+   stroke-linecap="round"
+   stroke="#787878"
+   fill="none"
+   height="0.207"
+   x="107.59"
+   y="100.792"
+   width="0.54699999"
+   id="connector34terminal"
+   stroke-width="0.75" />
+            </g>
+            <g
+   gorn="0.3.0.53"
+   id="g655"
+   transform="translate(0,-13.5)">
+                <line
+   gorn="0.3.0.53.0"
+   y1="108.087"
+   stroke-linecap="round"
+   y2="108.087"
+   x1="93.017998"
+   x2="107.418"
+   stroke="#787878"
+   fill="none"
+   id="connector35pin"
+   stroke-width="1.0665" />
+                <rect
+   gorn="0.3.0.53.1"
+   stroke-linecap="round"
+   stroke="#787878"
+   fill="none"
+   height="0.20900001"
+   x="107.59"
+   y="107.991"
+   width="0.54699999"
+   id="connector35terminal"
+   stroke-width="0.75" />
+            </g>
+            <g
+   gorn="0.3.0.54"
+   id="g659"
+   transform="translate(0,-13.5)">
+                <line
+   gorn="0.3.0.54.0"
+   y1="115.288"
+   stroke-linecap="round"
+   y2="115.288"
+   x1="93.017998"
+   x2="107.418"
+   stroke="#787878"
+   fill="none"
+   id="connector36pin"
+   stroke-width="1.0665" />
+                <rect
+   gorn="0.3.0.54.1"
+   stroke-linecap="round"
+   stroke="#787878"
+   fill="none"
+   height="0.207"
+   x="107.59"
+   y="115.193"
+   width="0.54699999"
+   id="connector36terminal"
+   stroke-width="0.75" />
+            </g>
+        <g
+   id="g6226-2"
+   transform="translate(64.167161,-13.211608)" /><g
+   gorn="0.3.0.40"
+   id="g603-7"
+   transform="translate(93.652622,-20.634661)">
+                <line
+   gorn="0.3.0.40.0"
+   y1="122.495"
+   stroke-linecap="round"
+   y2="122.495"
+   x1="0.329"
+   x2="14.729"
+   stroke="#787878"
+   fill="none"
+   id="connector17pin-7"
+   stroke-width="1.0665" />
+                <rect
+   gorn="0.3.0.40.1"
+   stroke-linecap="round"
+   stroke="#787878"
+   fill="none"
+   height="0.207"
+   x="-0.294"
+   y="122.4"
+   width="0.546"
+   id="connector17terminal-41"
+   stroke-width="0.75" />
+            </g><g
+   gorn="0.3.0.41"
+   id="g607-6"
+   transform="translate(93.652622,-20.634661)">
+                <line
+   gorn="0.3.0.41.0"
+   y1="129.69501"
+   stroke-linecap="round"
+   y2="129.69501"
+   x1="0.329"
+   x2="14.729"
+   stroke="#787878"
+   fill="none"
+   id="connector18pin-10"
+   stroke-width="1.0665" />
+                <rect
+   gorn="0.3.0.41.1"
+   stroke-linecap="round"
+   stroke="#787878"
+   fill="none"
+   height="0.20900001"
+   x="-0.294"
+   y="129.599"
+   width="0.546"
+   id="connector18terminal-7"
+   stroke-width="0.75" />
+            </g><g
+   gorn="0.3.0.37"
+   id="g591-5-0"
+   transform="translate(93.211131,44.308286)">
+                <line
+   gorn="0.3.0.37.0"
+   y1="100.896"
+   stroke-linecap="round"
+   y2="100.896"
+   x1="0.329"
+   x2="14.729"
+   stroke="#787878"
+   fill="none"
+   id="connector14pin-4-4"
+   stroke-width="1.0665" /><line
+   gorn="0.3.0.37.0"
+   y1="108.30785"
+   stroke-linecap="round"
+   y2="108.30785"
+   x1="-0.12618425"
+   x2="14.273815"
+   stroke="#787878"
+   fill="none"
+   id="connector14pin-4-4-4"
+   stroke-width="1.0665" />
+                <rect
+   gorn="0.3.0.37.1"
+   stroke-linecap="round"
+   stroke="#787878"
+   fill="none"
+   height="0.208"
+   x="-0.294"
+   y="100.8"
+   width="0.546"
+   id="connector14terminal-1-3"
+   stroke-width="0.75" />
+            </g><g
+   gorn="0.3.0.38"
+   id="g595-2-3"
+   transform="translate(93.490933,7.9341051)">
+                <line
+   gorn="0.3.0.38.0"
+   y1="108.096"
+   stroke-linecap="round"
+   y2="108.096"
+   x1="0.329"
+   x2="14.729"
+   stroke="#787878"
+   fill="none"
+   id="connector15pin-4-6"
+   stroke-width="1.0665" />
+                <rect
+   gorn="0.3.0.38.1"
+   stroke-linecap="round"
+   stroke="#787878"
+   fill="none"
+   height="0.208"
+   x="-0.294"
+   y="107.999"
+   width="0.546"
+   id="connector15terminal-0-0"
+   stroke-width="0.75" />
+            </g><g
+   gorn="0.3.0.39"
+   id="g599-5-4"
+   transform="translate(93.490933,7.9341051)">
+                <line
+   gorn="0.3.0.39.0"
+   y1="115.294"
+   stroke-linecap="round"
+   y2="115.294"
+   x1="0.329"
+   x2="14.729"
+   stroke="#787878"
+   fill="none"
+   id="connector16pin-1-5"
+   stroke-width="1.0665" />
+                <rect
+   gorn="0.3.0.39.1"
+   stroke-linecap="round"
+   stroke="#787878"
+   fill="none"
+   height="0.20900001"
+   x="-0.294"
+   y="115.198"
+   width="0.546"
+   id="connector16terminal-7-7"
+   stroke-width="0.75" />
+            </g><g
+   gorn="0.3.0.40"
+   id="g603-6-3"
+   transform="translate(93.490933,7.9341051)">
+                <line
+   gorn="0.3.0.40.0"
+   y1="122.495"
+   stroke-linecap="round"
+   y2="122.495"
+   x1="0.329"
+   x2="14.729"
+   stroke="#787878"
+   fill="none"
+   id="connector17pin-8-8"
+   stroke-width="1.0665" />
+                <rect
+   gorn="0.3.0.40.1"
+   stroke-linecap="round"
+   stroke="#787878"
+   fill="none"
+   height="0.207"
+   x="-0.294"
+   y="122.4"
+   width="0.546"
+   id="connector17terminal-4-6"
+   stroke-width="0.75" />
+            </g><g
+   gorn="0.3.0.41"
+   id="g607-2-0"
+   transform="translate(93.490933,7.9341051)">
+                <line
+   gorn="0.3.0.41.0"
+   y1="129.69501"
+   stroke-linecap="round"
+   y2="129.69501"
+   x1="0.329"
+   x2="14.729"
+   stroke="#787878"
+   fill="none"
+   id="connector18pin-1-8"
+   stroke-width="1.0665" />
+                <rect
+   gorn="0.3.0.41.1"
+   stroke-linecap="round"
+   stroke="#787878"
+   fill="none"
+   height="0.20900001"
+   x="-0.294"
+   y="129.599"
+   width="0.546"
+   id="connector18terminal-1-6"
+   stroke-width="0.75" />
+            </g></g>
+    </g>
+</svg>

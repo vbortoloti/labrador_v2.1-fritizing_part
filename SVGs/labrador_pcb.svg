@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+
+<svg
+   version="1.2"
+   x="0in"
+   y="0in"
+   width="3.0999999in"
+   height="2.5999999in"
+   viewBox="0 0 223.20014 187.19965"
+   id="svg4872"
+   sodipodi:docname="labrador_pcb.svg"
+   xml:space="preserve"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+     id="defs4876"><inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect4998"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,1,0,1,0,0.04,0,3 @ F,1,0,1,0,0.04,0,3 @ F,1,0,1,0,0.04,0,3 @ F,1,0,1,0,0.04,0,3"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="4"
+       chamfer_steps="3"
+       flexible="true"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" /><inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect4998-9"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,1,0,1,0,0.03,0,3 @ F,1,0,1,0,0.03,0,3 @ F,1,0,1,0,0.03,0,3 @ F,1,0,1,0,0.03,0,3"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="3"
+       chamfer_steps="3"
+       flexible="true"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" /></defs><sodipodi:namedview
+     id="namedview4874"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="in"
+     showgrid="true"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="58.689863"
+     inkscape:cy="134.70384"
+     inkscape:window-width="2560"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="202"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4872"
+     showguides="true"><inkscape:grid
+       type="xygrid"
+       id="grid44133"
+       visible="false"
+       originx="0"
+       originy="0" /><sodipodi:guide
+       position="64.667171,119.31752"
+       orientation="0,-1"
+       id="guide46577"
+       inkscape:locked="false" /></sodipodi:namedview><g
+     partID="69540"
+     id="g4870"
+     transform="rotate(-90,-39.982951,224.72422)"><g
+       transform="translate(-1.9627,0.415188)"
+       id="g4868" /></g><g
+     id="copper0"
+     transform="matrix(0,-0.73949894,0.73949894,0,19.293306,175.37692)">
+	<g
+   id="copper1">
+		<circle
+   id="connector0pin"
+   fill="none"
+   stroke="#ffbf00"
+   stroke-width="1.25"
+   cx="24.184999"
+   cy="12.919"
+   r="2.0880001" />
+		<circle
+   id="connector1pin"
+   fill="none"
+   stroke="#ffbf00"
+   stroke-width="1.25"
+   cx="31.384001"
+   cy="12.919"
+   r="2.0880001" />
+		<circle
+   id="connector2pin"
+   fill="none"
+   stroke="#ffbf00"
+   stroke-width="1.25"
+   cx="38.584999"
+   cy="12.919"
+   r="2.0880001" />
+		<circle
+   id="connector3pin"
+   fill="none"
+   stroke="#ffbf00"
+   stroke-width="1.25"
+   cx="45.784"
+   cy="12.919"
+   r="2.0880001" />
+		<circle
+   id="connector4pin"
+   fill="none"
+   stroke="#ffbf00"
+   stroke-width="1.25"
+   cx="52.985001"
+   cy="12.919"
+   r="2.0880001" />
+		<circle
+   id="connector5pin"
+   fill="none"
+   stroke="#ffbf00"
+   stroke-width="1.25"
+   cx="60.185001"
+   cy="12.919"
+   r="2.0880001" />
+		<circle
+   id="connector6pin"
+   fill="none"
+   stroke="#ffbf00"
+   stroke-width="1.25"
+   cx="67.384003"
+   cy="12.919"
+   r="2.0880001" />
+		<circle
+   id="connector7pin"
+   fill="none"
+   stroke="#ffbf00"
+   stroke-width="1.25"
+   cx="74.584999"
+   cy="12.919"
+   r="2.0880001" />
+		<circle
+   id="connector8pin"
+   fill="none"
+   stroke="#ffbf00"
+   stroke-width="1.25"
+   cx="81.783997"
+   cy="12.919"
+   r="2.0880001" />
+		<circle
+   id="connector9pin"
+   fill="none"
+   stroke="#ffbf00"
+   stroke-width="1.25"
+   cx="88.985001"
+   cy="12.919"
+   r="2.0880001" />
+		<circle
+   id="connector10pin"
+   fill="none"
+   stroke="#ffbf00"
+   stroke-width="1.25"
+   cx="96.184998"
+   cy="12.919"
+   r="2.0880001" />
+		<circle
+   id="connector11pin"
+   fill="none"
+   stroke="#ffbf00"
+   stroke-width="1.25"
+   cx="103.385"
+   cy="12.919"
+   r="2.0880001" />
+		<circle
+   id="connector12pin"
+   fill="none"
+   stroke="#ffbf00"
+   stroke-width="1.25"
+   cx="110.585"
+   cy="12.919"
+   r="2.0880001" />
+		<circle
+   id="connector13pin"
+   fill="none"
+   stroke="#ffbf00"
+   stroke-width="1.25"
+   cx="117.784"
+   cy="12.919"
+   r="2.0880001" />
+		<circle
+   id="connector14pin"
+   fill="none"
+   stroke="#ffbf00"
+   stroke-width="1.25"
+   cx="124.986"
+   cy="12.919"
+   r="2.0880001" />
+		<circle
+   id="connector15pin"
+   fill="none"
+   stroke="#ffbf00"
+   stroke-width="1.25"
+   cx="132.185"
+   cy="12.919"
+   r="2.0880001" />
+		<circle
+   id="connector16pin"
+   fill="none"
+   stroke="#ffbf00"
+   stroke-width="1.25"
+   cx="139.38499"
+   cy="12.919"
+   r="2.0880001" />
+		<circle
+   id="connector17pin"
+   fill="none"
+   stroke="#ffbf00"
+   stroke-width="1.25"
+   cx="146.58501"
+   cy="12.919"
+   r="2.0880001" />
+		<circle
+   id="connector18pin"
+   fill="none"
+   stroke="#ffbf00"
+   stroke-width="1.25"
+   cx="153.784"
+   cy="12.919"
+   r="2.0880001" />
+		<circle
+   id="connector19pin"
+   fill="none"
+   stroke="#ffbf00"
+   stroke-width="1.25"
+   cx="160.98599"
+   cy="12.919"
+   r="2.0880001" />
+		<circle
+   id="connector20pin"
+   fill="none"
+   stroke="#ffbf00"
+   stroke-width="1.25"
+   cx="160.98599"
+   cy="5.7199998"
+   r="2.0880001" />
+		<circle
+   id="connector21pin"
+   fill="none"
+   stroke="#ffbf00"
+   stroke-width="1.25"
+   cx="153.784"
+   cy="5.7199998"
+   r="2.0880001" />
+		<circle
+   id="connector22pin"
+   fill="none"
+   stroke="#ffbf00"
+   stroke-width="1.25"
+   cx="146.58501"
+   cy="5.7199998"
+   r="2.0880001" />
+		<circle
+   id="connector23pin"
+   fill="none"
+   stroke="#ffbf00"
+   stroke-width="1.25"
+   cx="139.38499"
+   cy="5.7199998"
+   r="2.0880001" />
+		<circle
+   id="connector24pin"
+   fill="none"
+   stroke="#ffbf00"
+   stroke-width="1.25"
+   cx="132.185"
+   cy="5.7199998"
+   r="2.0880001" />
+		<circle
+   id="connector25pin"
+   fill="none"
+   stroke="#ffbf00"
+   stroke-width="1.25"
+   cx="124.986"
+   cy="5.7199998"
+   r="2.0880001" />
+		<circle
+   id="connector26pin"
+   fill="none"
+   stroke="#ffbf00"
+   stroke-width="1.25"
+   cx="117.784"
+   cy="5.7199998"
+   r="2.0880001" />
+		<circle
+   id="connector27pin"
+   fill="none"
+   stroke="#ffbf00"
+   stroke-width="1.25"
+   cx="110.585"
+   cy="5.7199998"
+   r="2.0880001" />
+		<circle
+   id="connector28pin"
+   fill="none"
+   stroke="#ffbf00"
+   stroke-width="1.25"
+   cx="103.385"
+   cy="5.7199998"
+   r="2.0880001" />
+		<circle
+   id="connector29pin"
+   fill="none"
+   stroke="#ffbf00"
+   stroke-width="1.25"
+   cx="96.184998"
+   cy="5.7199998"
+   r="2.0880001" />
+		<circle
+   id="connector30pin"
+   fill="none"
+   stroke="#ffbf00"
+   stroke-width="1.25"
+   cx="88.985001"
+   cy="5.7199998"
+   r="2.0880001" />
+		<circle
+   id="connector31pin"
+   fill="none"
+   stroke="#ffbf00"
+   stroke-width="1.25"
+   cx="81.783997"
+   cy="5.7199998"
+   r="2.0880001" />
+		<circle
+   id="connector32pin"
+   fill="none"
+   stroke="#ffbf00"
+   stroke-width="1.25"
+   cx="74.584999"
+   cy="5.7199998"
+   r="2.0880001" />
+		<circle
+   id="connector33pin"
+   fill="none"
+   stroke="#ffbf00"
+   stroke-width="1.25"
+   cx="67.384003"
+   cy="5.7199998"
+   r="2.0880001" />
+		<circle
+   id="connector34pin"
+   fill="none"
+   stroke="#ffbf00"
+   stroke-width="1.25"
+   cx="60.185001"
+   cy="5.7199998"
+   r="2.0880001" />
+		<circle
+   id="connector35pin"
+   fill="none"
+   stroke="#ffbf00"
+   stroke-width="1.25"
+   cx="52.985001"
+   cy="5.7199998"
+   r="2.0880001" />
+		<circle
+   id="connector36pin"
+   fill="none"
+   stroke="#ffbf00"
+   stroke-width="1.25"
+   cx="45.784"
+   cy="5.7199998"
+   r="2.0880001" />
+		<circle
+   id="connector37pin"
+   fill="none"
+   stroke="#ffbf00"
+   stroke-width="1.25"
+   cx="38.584999"
+   cy="5.7199998"
+   r="2.0880001" />
+		<circle
+   id="connector38pin"
+   fill="none"
+   stroke="#ffbf00"
+   stroke-width="1.25"
+   cx="31.384001"
+   cy="5.7199998"
+   r="2.0880001" />
+		<circle
+   id="connector39pin"
+   fill="none"
+   stroke="#ffbf00"
+   stroke-width="1.25"
+   cx="24.184999"
+   cy="5.7199998"
+   r="2.0880001" />
+	</g>
+</g></svg>
